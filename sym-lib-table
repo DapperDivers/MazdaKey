@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name PN532)(type Legacy)(uri C:/Projects/Kicad/MazdaKey/RF_RFID.lib)(options "")(descr ""))
+)
